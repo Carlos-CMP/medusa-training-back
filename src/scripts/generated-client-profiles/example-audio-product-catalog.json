@@ -1,0 +1,46 @@
+[
+  {
+    "handle": "altavoz-activo-12",
+    "title": "Example Audio Altavoz activo 12 pulgadas",
+    "category": "Altavoces activos",
+    "description": "Altavoz profesional para instalaciones, eventos y retail.",
+    "sku": "SKU-AUDIO-ACTIVO-12-BLK",
+    "variant_title": "Black",
+    "color": "Black",
+    "price_eur": 549,
+    "image_url": null
+  },
+  {
+    "handle": "subwoofer-activo-18",
+    "title": "Example Audio Subwoofer activo 18 pulgadas",
+    "category": "Subwoofers",
+    "description": "Subwoofer profesional para refuerzo de graves en proyectos.",
+    "sku": "SKU-AUDIO-SUB-18-BLK",
+    "variant_title": "Black",
+    "color": "Black",
+    "price_eur": 749,
+    "image_url": null
+  },
+  {
+    "handle": "columna-line-array-10",
+    "title": "Example Audio Columna line array 10",
+    "category": "Columnas",
+    "description": "Sistema compacto para eventos, hostelería y salas.",
+    "sku": "SKU-AUDIO-COLUMN-10-BLK",
+    "variant_title": "Black",
+    "color": "Black",
+    "price_eur": 899,
+    "image_url": null
+  },
+  {
+    "handle": "cable-xlr-5m",
+    "title": "Example Audio Cable XLR profesional 5m",
+    "category": "Accesorios",
+    "description": "Accesorio de alta rotacion para venta por caja.",
+    "sku": "SKU-AUDIO-CABLE-XLR-5M",
+    "variant_title": "Caja 24 uds",
+    "color": "Black",
+    "price_eur": 9.9,
+    "image_url": null
+  }
+]

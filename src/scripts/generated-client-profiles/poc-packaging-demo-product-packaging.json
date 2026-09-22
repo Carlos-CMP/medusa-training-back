@@ -1,0 +1,57 @@
+[
+  {
+    "sku": "SKU-BOX-KRAFT-300",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 100,
+    "quantity_increment": 100,
+    "units_per_box": 100,
+    "boxes_per_pallet": 40,
+    "package_weight": 12.5,
+    "package_dimensions": "600 x 400 x 360 mm"
+  },
+  {
+    "sku": "SKU-MAILER-BAG-250",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 250,
+    "quantity_increment": 250,
+    "units_per_box": 250,
+    "boxes_per_pallet": 32,
+    "package_weight": 8.1,
+    "package_dimensions": "520 x 380 x 300 mm"
+  },
+  {
+    "sku": "SKU-BUBBLE-ROLL-50M",
+    "variant_id": null,
+    "sales_unit": "unit",
+    "minimum_order_quantity": 1,
+    "quantity_increment": 1,
+    "units_per_box": 1,
+    "boxes_per_pallet": 24,
+    "package_weight": 3.8,
+    "package_dimensions": "500 x 500 x 1000 mm"
+  },
+  {
+    "sku": "SKU-LABEL-A6-1000",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 1000,
+    "quantity_increment": 1000,
+    "units_per_box": 1000,
+    "boxes_per_pallet": 60,
+    "package_weight": 6.4,
+    "package_dimensions": "320 x 240 x 220 mm"
+  },
+  {
+    "sku": "SKU-TAPE-48MM-36",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 36,
+    "quantity_increment": 36,
+    "units_per_box": 36,
+    "boxes_per_pallet": 72,
+    "package_weight": 9.6,
+    "package_dimensions": "420 x 320 x 280 mm"
+  }
+]

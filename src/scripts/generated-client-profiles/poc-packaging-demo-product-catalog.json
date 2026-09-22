@@ -1,0 +1,57 @@
+[
+  {
+    "handle": "caja-kraft-300",
+    "title": "POC Packaging Demo Caja kraft 300",
+    "category": "Cajas",
+    "description": "Caja de carton para ecommerce y logística B2B.",
+    "sku": "SKU-BOX-KRAFT-300",
+    "variant_title": "Caja 100 uds",
+    "color": "Kraft",
+    "price_eur": 42.5,
+    "image_url": null
+  },
+  {
+    "handle": "sobre-mailer-250",
+    "title": "POC Packaging Demo Sobre mailer 250",
+    "category": "Sobres",
+    "description": "Sobre profesional para envíos ecommerce por volumen.",
+    "sku": "SKU-MAILER-BAG-250",
+    "variant_title": "Caja 250 uds",
+    "color": "Kraft",
+    "price_eur": 52.95,
+    "image_url": null
+  },
+  {
+    "handle": "rollo-burbuja-50m",
+    "title": "POC Packaging Demo Rollo burbuja 50m",
+    "category": "Proteccion",
+    "description": "Proteccion para embalaje y expediciones recurrentes.",
+    "sku": "SKU-BUBBLE-ROLL-50M",
+    "variant_title": "Rollo",
+    "color": "Transparent",
+    "price_eur": 18.5,
+    "image_url": null
+  },
+  {
+    "handle": "etiqueta-a6-1000",
+    "title": "POC Packaging Demo Etiqueta A6 1000",
+    "category": "Etiquetas",
+    "description": "Etiqueta termica para almacénes y ecommerce.",
+    "sku": "SKU-LABEL-A6-1000",
+    "variant_title": "Caja 1000 uds",
+    "color": "White",
+    "price_eur": 24.95,
+    "image_url": null
+  },
+  {
+    "handle": "precinto-48mm-36",
+    "title": "POC Packaging Demo Precinto 48mm caja 36",
+    "category": "Precintos",
+    "description": "Precinto profesional para operativa diaria de almacén.",
+    "sku": "SKU-TAPE-48MM-36",
+    "variant_title": "Caja 36 uds",
+    "color": "Transparent",
+    "price_eur": 31.2,
+    "image_url": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sku": "SKU-AUDIO-ACTIVO-12-BLK",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 6,
+    "quantity_increment": 6,
+    "units_per_box": 6,
+    "boxes_per_pallet": 32,
+    "package_weight": 8.2,
+    "package_dimensions": "560 x 380 x 360 mm"
+  },
+  {
+    "sku": "SKU-AUDIO-SUB-18-BLK",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 2,
+    "quantity_increment": 2,
+    "units_per_box": 2,
+    "boxes_per_pallet": 12,
+    "package_weight": 28.5,
+    "package_dimensions": "720 x 560 x 520 mm"
+  },
+  {
+    "sku": "SKU-AUDIO-COLUMN-10-BLK",
+    "variant_id": null,
+    "sales_unit": "unit",
+    "minimum_order_quantity": 1,
+    "quantity_increment": 1,
+    "units_per_box": 1,
+    "boxes_per_pallet": 18,
+    "package_weight": 14.8,
+    "package_dimensions": "1040 x 260 x 240 mm"
+  },
+  {
+    "sku": "SKU-AUDIO-CABLE-XLR-5M",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 24,
+    "quantity_increment": 24,
+    "units_per_box": 24,
+    "boxes_per_pallet": 80,
+    "package_weight": 4.2,
+    "package_dimensions": "430 x 300 x 250 mm"
+  }
+]

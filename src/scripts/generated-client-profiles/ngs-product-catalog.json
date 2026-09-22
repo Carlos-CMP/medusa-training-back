@@ -1,0 +1,178 @@
+[
+  {
+    "handle": "ngs-wild-space-3",
+    "title": "NGS WILD SPACE 3 | Altavoz party speaker profesional",
+    "category": "Audio",
+    "description": "Altavoz NGS orientado a canal retail y distribuidores, con foco en rotacion, disponibilidad y compra por volumen para campanas de audio.",
+    "sku": "NGS-WILD-SPACE-3-BLK",
+    "variant_title": "Caja 1 unidad / Negro",
+    "color": "Black",
+    "price_eur": 271.2,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-front.png"
+  },
+  {
+    "handle": "ngs-wild-space-3",
+    "title": "NGS WILD SPACE 3 | Altavoz party speaker profesional",
+    "category": "Audio",
+    "description": "Altavoz NGS orientado a canal retail y distribuidores, con foco en rotacion, disponibilidad y compra por volumen para campanas de audio.",
+    "sku": "NGS-WILD-SPACE-3-RED",
+    "variant_title": "Caja 1 unidad / Rojo",
+    "color": "Red",
+    "price_eur": 279.2,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/laptop-front.png"
+  },
+  {
+    "handle": "ngs-xpresscam-1080",
+    "title": "NGS XPRESSCAM 1080 | Webcam profesional",
+    "category": "Accesorios",
+    "description": "Webcam 1080p para empresas, educacion y distribuidores IT. Producto adecuado para reposición recurrente y packs por volumen.",
+    "sku": "NGS-XPRESSCAM-1080-BLK",
+    "variant_title": "XPRESSCAM 1080 Black",
+    "color": "Black",
+    "price_eur": 47.92,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/camera-front.png"
+  },
+  {
+    "handle": "ngs-xpresscam-1080",
+    "title": "NGS XPRESSCAM 1080 | Webcam profesional",
+    "category": "Accesorios",
+    "description": "Webcam 1080p para empresas, educacion y distribuidores IT. Producto adecuado para reposición recurrente y packs por volumen.",
+    "sku": "NGS-XPRESSCAM-1080-WHT",
+    "variant_title": "XPRESSCAM 1080 White",
+    "color": "White",
+    "price_eur": 51.92,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/camera-front.png"
+  },
+  {
+    "handle": "ngs-powerpump-10w",
+    "title": "NGS POWERPUMP 10W | Powerbank movilidad",
+    "category": "Movilidad",
+    "description": "Powerbank NGS para canal movilidad, ideal para compra por caja, programas de empresa y promociones retail.",
+    "sku": "NGS-POWERPUMP-10W-PUR",
+    "variant_title": "POWERPUMP 10W Purple",
+    "color": "Purple",
+    "price_eur": 24.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-front.png"
+  },
+  {
+    "handle": "ngs-powerpump-10w",
+    "title": "NGS POWERPUMP 10W | Powerbank movilidad",
+    "category": "Movilidad",
+    "description": "Powerbank NGS para canal movilidad, ideal para compra por caja, programas de empresa y promociones retail.",
+    "sku": "NGS-POWERPUMP-10W-RED",
+    "variant_title": "POWERPUMP 10W Red",
+    "color": "Red",
+    "price_eur": 22.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/phone-front.png"
+  },
+  {
+    "handle": "ngs-gmx-27",
+    "title": "NGS GMX-27 | Monitor gaming distribución",
+    "category": "PC y Gaming",
+    "description": "Monitor gaming NGS para surtido de canal, con disponibilidad y precio B2B por región para pedidos recurrentes.",
+    "sku": "NGS-GMX-27-WHT",
+    "variant_title": "GMX-27 White",
+    "color": "White",
+    "price_eur": 159.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-front.png"
+  },
+  {
+    "handle": "ngs-gmx-27",
+    "title": "NGS GMX-27 | Monitor gaming distribución",
+    "category": "PC y Gaming",
+    "description": "Monitor gaming NGS para surtido de canal, con disponibilidad y precio B2B por región para pedidos recurrentes.",
+    "sku": "NGS-GMX-27-BLK",
+    "variant_title": "GMX-27 Black",
+    "color": "Black",
+    "price_eur": 149.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/screen-front.png"
+  },
+  {
+    "handle": "ngs-ghx-600",
+    "title": "NGS GHX-600 | Auricular gaming",
+    "category": "Audio",
+    "description": "Auricular gaming NGS para lineales retail, bundles y reposición por volumen en cuentas B2B.",
+    "sku": "NGS-GHX-600-BLK",
+    "variant_title": "GHX-600 Black",
+    "color": "Black",
+    "price_eur": 31.99,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-front.png"
+  },
+  {
+    "handle": "ngs-ghx-600",
+    "title": "NGS GHX-600 | Auricular gaming",
+    "category": "Audio",
+    "description": "Auricular gaming NGS para lineales retail, bundles y reposición por volumen en cuentas B2B.",
+    "sku": "NGS-GHX-600-WHT",
+    "variant_title": "GHX-600 White",
+    "color": "White",
+    "price_eur": 34.99,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/headphone-front.png"
+  },
+  {
+    "handle": "ngs-funky-kit",
+    "title": "NGS FUNKY KIT | Teclado y ratón profesional",
+    "category": "PC y Gaming",
+    "description": "Pack teclado y ratón NGS para empresas, aulas, integradores y distribuidores IT.",
+    "sku": "NGS-FUNKY-KIT-BLK",
+    "variant_title": "FUNKY KIT Black",
+    "color": "Black",
+    "price_eur": 18.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/keyboard-front.png"
+  },
+  {
+    "handle": "ngs-funky-kit",
+    "title": "NGS FUNKY KIT | Teclado y ratón profesional",
+    "category": "PC y Gaming",
+    "description": "Pack teclado y ratón NGS para empresas, aulas, integradores y distribuidores IT.",
+    "sku": "NGS-FUNKY-KIT-WHT",
+    "variant_title": "FUNKY KIT White",
+    "color": "White",
+    "price_eur": 19.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/keyboard-front.png"
+  },
+  {
+    "handle": "ngs-evo-mouse",
+    "title": "NGS EVO MOUSE | Ratón inalámbrico",
+    "category": "PC y Gaming",
+    "description": "Ratón inalámbrico NGS para pedidos por lote, renovación de puestos y canal informático.",
+    "sku": "NGS-EVO-MOUSE-BLK",
+    "variant_title": "EVO MOUSE Black",
+    "color": "Black",
+    "price_eur": 9.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/mouse-top.png"
+  },
+  {
+    "handle": "ngs-evo-mouse",
+    "title": "NGS EVO MOUSE | Ratón inalámbrico",
+    "category": "PC y Gaming",
+    "description": "Ratón inalámbrico NGS para pedidos por lote, renovación de puestos y canal informático.",
+    "sku": "NGS-EVO-MOUSE-WHT",
+    "variant_title": "EVO MOUSE White",
+    "color": "White",
+    "price_eur": 10.9,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/mouse-top.png"
+  },
+  {
+    "handle": "ngs-wild-bash-compact",
+    "title": "NGS WILD BASH COMPACT | Altavoz portátil",
+    "category": "Audio",
+    "description": "Altavoz compacto NGS con precio B2B, buen margen y alta rotacion para distribuidores.",
+    "sku": "NGS-WILD-BASH-COMPACT-BLK",
+    "variant_title": "WILD BASH COMPACT Black",
+    "color": "Black",
+    "price_eur": 87.2,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/speaker-top.png"
+  },
+  {
+    "handle": "ngs-wild-bash-compact",
+    "title": "NGS WILD BASH COMPACT | Altavoz portátil",
+    "category": "Audio",
+    "description": "Altavoz compacto NGS con precio B2B, buen margen y alta rotacion para distribuidores.",
+    "sku": "NGS-WILD-BASH-COMPACT-WHT",
+    "variant_title": "WILD BASH COMPACT White",
+    "color": "White",
+    "price_eur": 89.2,
+    "image_url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/speaker-top.png"
+  }
+]

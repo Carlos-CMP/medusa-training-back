@@ -1,0 +1,90 @@
+[
+  {
+    "handle": "valvula-bola-dn25",
+    "title": "Industrex Valvula de bola DN25 laton",
+    "category": "Repuestos",
+    "description": "Valvula industrial para mantenimiento, instalacion y reposición recurrente.",
+    "sku": "IND-VALVE-DN25-BRASS",
+    "variant_title": "Laton",
+    "color": "Brass",
+    "price_eur": 18.9,
+    "image_url": null
+  },
+  {
+    "handle": "cable-industrial-3g25-100m",
+    "title": "Industrex Cable industrial 3G2.5 100m",
+    "category": "Consumibles",
+    "description": "Bobina de cable flexible para instaladores, mantenimiento y cuadros auxiliares.",
+    "sku": "IND-CABLE-3G25-100M",
+    "variant_title": "100 metros",
+    "color": "Black",
+    "price_eur": 139,
+    "image_url": null
+  },
+  {
+    "handle": "filtro-m5-20-pack",
+    "title": "Industrex Filtro M5 pack 20",
+    "category": "Consumibles",
+    "description": "Filtro de reposición para climatizacion y mantenimiento preventivo.",
+    "sku": "IND-FILTER-M5-20PK",
+    "variant_title": "Pack 20",
+    "color": "White",
+    "price_eur": 7.4,
+    "image_url": null
+  },
+  {
+    "handle": "guante-nitrilo-industrial",
+    "title": "Industrex Guante nitrilo caja 100",
+    "category": "Proteccion",
+    "description": "EPI de alta rotacion para talleres, almacén y mantenimiento.",
+    "sku": "IND-GLOVE-NITRILE-100-BLK",
+    "variant_title": "Caja 100",
+    "color": "Black",
+    "price_eur": 8.9,
+    "image_url": null
+  },
+  {
+    "handle": "broca-hss-industrial-set",
+    "title": "Industrex Set brocas HSS industrial",
+    "category": "Herramientas",
+    "description": "Set de brocas para equipos de mantenimiento, instaladores y talleres.",
+    "sku": "IND-DRILL-HSS-19PC",
+    "variant_title": "Set 19 piezas",
+    "color": "Steel",
+    "price_eur": 24.9,
+    "image_url": null
+  },
+  {
+    "handle": "adhesivo-ms-290ml",
+    "title": "Industrex Adhesivo MS polimero 290ml",
+    "category": "Consumibles",
+    "description": "Adhesivo profesional para reparacion, montaje y consumos recurrentes.",
+    "sku": "IND-ADHESIVE-MS-290-WHT",
+    "variant_title": "Cartucho 290ml",
+    "color": "White",
+    "price_eur": 6.8,
+    "image_url": null
+  },
+  {
+    "handle": "rodamiento-6205-caja-20",
+    "title": "Industrex Rodamiento 6205 caja 20",
+    "category": "Repuestos",
+    "description": "Rodamiento estandar para maquínaria, recambios y mantenimiento industrial.",
+    "sku": "IND-BEARING-6205-20",
+    "variant_title": "Pack 20",
+    "color": "Steel",
+    "price_eur": 5.9,
+    "image_url": null
+  },
+  {
+    "handle": "brida-nylon-200-pack",
+    "title": "Industrex Brida nylon 200mm pack 1000",
+    "category": "Accesorios",
+    "description": "Consumible de instalacion para electricistas, integradores y almacénes.",
+    "sku": "IND-CABLE-TIE-200-1000",
+    "variant_title": "Pack 1000",
+    "color": "Black",
+    "price_eur": 11.5,
+    "image_url": null
+  }
+]

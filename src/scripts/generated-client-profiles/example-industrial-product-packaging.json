@@ -1,0 +1,90 @@
+[
+  {
+    "sku": "IND-VALVE-DN25-BRASS",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 10,
+    "quantity_increment": 10,
+    "units_per_box": 10,
+    "boxes_per_pallet": 60,
+    "package_weight": 6.4,
+    "package_dimensions": "400 x 300 x 220 mm"
+  },
+  {
+    "sku": "IND-CABLE-3G25-100M",
+    "variant_id": null,
+    "sales_unit": "unit",
+    "minimum_order_quantity": 1,
+    "quantity_increment": 1,
+    "units_per_box": 1,
+    "boxes_per_pallet": 20,
+    "package_weight": 18.5,
+    "package_dimensions": "420 x 420 x 280 mm"
+  },
+  {
+    "sku": "IND-FILTER-M5-20PK",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 20,
+    "quantity_increment": 20,
+    "units_per_box": 20,
+    "boxes_per_pallet": 40,
+    "package_weight": 5.2,
+    "package_dimensions": "500 x 320 x 260 mm"
+  },
+  {
+    "sku": "IND-GLOVE-NITRILE-100-BLK",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 10,
+    "quantity_increment": 10,
+    "units_per_box": 10,
+    "boxes_per_pallet": 72,
+    "package_weight": 7.8,
+    "package_dimensions": "500 x 300 x 260 mm"
+  },
+  {
+    "sku": "IND-DRILL-HSS-19PC",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 6,
+    "quantity_increment": 6,
+    "units_per_box": 6,
+    "boxes_per_pallet": 48,
+    "package_weight": 9.1,
+    "package_dimensions": "360 x 260 x 240 mm"
+  },
+  {
+    "sku": "IND-ADHESIVE-MS-290-WHT",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 12,
+    "quantity_increment": 12,
+    "units_per_box": 12,
+    "boxes_per_pallet": 80,
+    "package_weight": 6.9,
+    "package_dimensions": "320 x 240 x 220 mm"
+  },
+  {
+    "sku": "IND-BEARING-6205-20",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 5,
+    "quantity_increment": 5,
+    "units_per_box": 5,
+    "boxes_per_pallet": 64,
+    "package_weight": 11.2,
+    "package_dimensions": "280 x 220 x 180 mm"
+  },
+  {
+    "sku": "IND-CABLE-TIE-200-1000",
+    "variant_id": null,
+    "sales_unit": "box",
+    "minimum_order_quantity": 8,
+    "quantity_increment": 8,
+    "units_per_box": 8,
+    "boxes_per_pallet": 56,
+    "package_weight": 5.7,
+    "package_dimensions": "420 x 280 x 240 mm"
+  }
+]
