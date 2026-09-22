@@ -1,4 +1,7 @@
-import { ContainerRegistrationKeys } from "@medusajs/framework/utils"
+import {
+  ContainerRegistrationKeys,
+  MedusaError,
+} from "@medusajs/framework/utils"
 import { createStep, StepResponse } from "@medusajs/framework/workflows-sdk";
 import { APPROVAL_MODULE } from "../../../modules/approval";
 import {
@@ -45,14 +48,20 @@ export const createApprovalStep = createStep(
       (cart.approval_status?.status as unknown as ApprovalStatusType) ===
       ApprovalStatusType.PENDING
     ) {
-      throw new Error("Cart already has a pending approval");
+      throw new MedusaError(
+        MedusaError.Types.NOT_ALLOWED,
+        "Cart already has a pending approval"
+      );
     }
 
     if (
       (cart.approval_status?.status as unknown as ApprovalStatusType) ===
       ApprovalStatusType.APPROVED
     ) {
-      throw new Error("Cart is already approved");
+      throw new MedusaError(
+        MedusaError.Types.NOT_ALLOWED,
+        "Cart is already approved"
+      );
     }
 
     const { requires_admin_approval, requires_sales_manager_approval } =
